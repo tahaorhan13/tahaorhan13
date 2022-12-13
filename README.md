@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaorhan13&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaorhan13&show_icons=true&theme=tokyonight" width="350" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaorhan13&layout=compact&theme=tokyonight" height="180" >
   
 </p>
