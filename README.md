@@ -9,13 +9,14 @@ Here are some ideas to get you started:
 - 🌟 Main languages: Javascript, Node.js and C#
 - 🎵 Love rap and pop music
 -->
-<p >Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/tahaorhan/"
-><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:tahaorhan39@gmail.com"
-><img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"></img></a><br></p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+
+<a href="mailto:tahaorhan39@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tahaorhan39@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/tahaorhan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adematici-blue?style=flat&logo=linkedin"></a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
