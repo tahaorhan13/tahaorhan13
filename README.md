@@ -2,15 +2,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently a Software Engineer at Sercair
+- 🌱 I’m currently exploring on Backend Development
+- 👯 I’m looking to collaborate on Backend Technology 
+- 📚 I have a Bachelors in Computer Engineering from the University of Bulent Ecevit at Turkey
+- - 🌟 Main languages: Javascript, Node.js and C#
+- - 🎵 Love rap and pop music
 -->
+<p >Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/tahaorhan/"
+><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.javascript.com/" target="_blank">
