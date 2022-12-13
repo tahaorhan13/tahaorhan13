@@ -6,13 +6,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently exploring on Backend Development
 - 👯 I’m looking to collaborate on Backend Technology 
 - 📚 I have a Bachelors in Computer Engineering from the University of Bulent Ecevit at Turkey
-- - 🌟 Main languages: Javascript, Node.js and C#
-- - 🎵 Love rap and pop music
+- 🌟 Main languages: Javascript, Node.js and C#
+- 🎵 Love rap and pop music
 -->
 <p >Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/tahaorhan/"
 ><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:tahaorhan39@gmail.com"
+><img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"></img></a><br></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -30,4 +33,11 @@ Here are some ideas to get you started:
   
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/> </a>
+  
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&layout=compact&theme=tokyonight" height="180">
+  
+</p>
 
