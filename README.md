@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-<p align="center">
 - 🔭 I’m currently a Software Engineer at Sercair
 - 🌱 I’m currently exploring on Backend Development
 - 👯 I’m looking to collaborate on Backend Technology 
 - 📚 I have a Bachelors in Computer Engineering from the University of Bulent Ecevit at Turkey
 - 🌟 Main languages: Javascript, Node.js and C#
 - 🎵 Love rap and pop music
-</p>
+
 
 <h3 align="center">Connect with me:</h3>
 
