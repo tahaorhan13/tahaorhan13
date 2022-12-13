@@ -12,8 +12,8 @@
 
 <p align="center">
 
-<a href="mailto:tahaorhan39@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tahaorhan39@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/tahaorhan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@tahaorhan-blue?style=flat&logo=linkedin"></a>
+ <a href="mailto:tahaorhan39@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tahaorhan39@gmail.com-blue?style=flat&logo=gmail"></a>
+ <a href="https://www.linkedin.com/in/tahaorhan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@tahaorhan-blue?style=flat&logo=linkedin"></a>
  <a href="https://www.npmjs.com/~tahaorhan"><img alt="Email" src="https://img.shields.io/badge/tahaorhan-blue?style=flat&logo=npm" widht="20" height="20"></a>
 </p>
 
