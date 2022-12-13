@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="mailto:tahaorhan39@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tahaorhan39@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/tahaorhan/" target="_blank"><img alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/tahaorhan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@tahaorhan-blue?style=flat&logo=linkedin"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
