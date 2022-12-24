@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Software Engineer at Sercair
 - 🌱 I’m currently exploring on Backend Development
 - 👯 I’m looking to collaborate on Backend Technology 
 - 📚 I have a Bachelors in Computer Engineering from the University of Bulent Ecevit at Turkey
