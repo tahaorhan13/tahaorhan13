@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring on Backend Development
 - 👯 I’m looking to collaborate on Backend Technology 
 - 📚 I have a Bachelors in Computer Engineering from the University of Bulent Ecevit at Turkey
-- 🌟 Main languages: Javascript, Node.js and C#
+- 🌟 Main languages: C#,Javascript and Node.js  
 - 🎵 Love rap and pop music
 
 
