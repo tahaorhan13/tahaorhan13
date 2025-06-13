@@ -1,12 +1,11 @@
 ### 👋 Hi, I'm Taha Orhan
 
-I'm a backend-focused software engineer specialized in building scalable, high-performance web applications using **.NET 9**, **microservices**, and **cloud-native technologies**.
+I'm a backend software engineer with a strong focus on **.NET technologies**.  
+I enjoy designing clean architectures, building secure APIs, and working with distributed systems.
 
-- 🚀 Currently mastering distributed architectures with .NET 9
-- ⚙️ Focused on performance, security, and real-world reliability
-- 🔁 Experienced with asynchronous systems: RabbitMQ, Kafka
-- 🐳 Containerized development with Docker & Docker Compose
-- 🧠 Redis, PostgreSQL, MongoDB for data & caching strategies
+- 💼 Interested in scalable backend systems and API development  
+- 🛠️ Experienced with technologies like Docker, Redis, RabbitMQ, PostgreSQL, and MongoDB  
+- 📚 Currently improving my expertise in microservices, middleware, and system design  
 - 🎓 B.Sc. in Computer Engineering from Bülent Ecevit University, Turkey
 
 ---
