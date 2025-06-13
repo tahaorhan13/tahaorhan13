@@ -21,13 +21,13 @@ I'm a backend-focused software engineer specialized in building scalable, high-p
 
 <h3 align="center">🧰 Tech Stack</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Redis_Logo.svg" alt="redis" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Postgresql_logo.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_.NET_logo.png" alt="dotnet" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
 </p>
 
 ---
